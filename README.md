@@ -9,10 +9,11 @@
 ![Flask](https://img.shields.io/badge/Flask-000.svg?logo=flask&logoColor=white)
 ![gitlab](https://img.shields.io/badge/Gitlab-330f63.svg?logo=gitlab&logoColor=white)
 ![postgres](https://img.shields.io/badge/postgres-316192.svg?logo=postgresql&logoColor=white)
+
+
 <!--![Amazon AWS](https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google Cloud-4285F4?logo=google-cloud&logoColor=white) -->
 
-https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white
 - 🔭 I currently use Github to work on various small POCs basically to jot down notes to myself. One I like to have for basic CRUD capabilities but also demonstrate more complex data manipulations is at [https://www.johnedmiston.com](https://www.johnedmiston.com). Another one is hosted at [https://www.movierank.org](https://www.movierank.org) and cross references several movie scoring sources to "find something good to watch" on one of the major streaming services. 
 - 🌱 I’m currently learning operations research methods. 
 - 📫 How to reach me: johnkedmiston@gmail.com
