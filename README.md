@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on various small POCs basically to jot down notes to myself, a current one is hosted at (https://movierank.org)[movierank.org] and cross references several movie scoring sources to "find something good to watch" on one of the major streaming services.
+- 🔭 I’m currently working on various small POCs basically to jot down notes to myself, a current one is hosted at [https://movierank.org] and cross references several movie scoring sources to "find something good to watch" on one of the major streaming services.
 - 🌱 I’m currently learning operations research methods
 - 📫 How to reach me: johnkedmiston@gmail.com
 
