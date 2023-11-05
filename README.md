@@ -14,6 +14,8 @@
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
 ![COMSOL](https://img.shields.io/badge/Comsol-white?style=flat-square&logo=comsol)
 ![Emacs](https://img.shields.io/badge/Emacs-skyblue?style=flat-square&logo=gnuemacs)
+![Fortran](https://img.shields.io/badge/Fortran-green?style=flat-square&logo=fortran)
+
 
 - 🔭 I currently use Github to work on various small POCs basically to jot down notes to myself for small utilities. One I like to have for basic CRUD capabilities but also demonstrate more complex data manipulations is at [https://www.johnedmiston.com](https://www.johnedmiston.com). Another one is hosted at [https://www.movierank.org](https://www.movierank.org) and cross references several movie scoring sources to "find something good to watch" on one of the major streaming services. 
 - 🌱 I’m currently learning operations research methods, but have expertise in continuum mechanics, finite element simulations, physical experiments/parameter estimation, product engineering, web applications and business intelligence/data analysis. 
