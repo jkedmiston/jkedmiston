@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-- 🔭 I’m currently working on various small POCs basically to jot down notes to myself, a current one is hosted at [https://www.movierank.org](https://www.movierank.org) and cross references several movie scoring sources to "find something good to watch" on one of the major streaming services.
+- 🔭 I currently use Github to work on various small POCs basically to jot down notes to myself. One I like to have for basic CRUD capabilities but also demonstrate more complex data manipulations is at [https://www.johnedmiston.com](https://www.johnedmiston.com). Another one is hosted at [https://www.movierank.org](https://www.movierank.org) and cross references several movie scoring sources to "find something good to watch" on one of the major streaming services. 
 - 🌱 I’m currently learning operations research methods. 
 - 📫 How to reach me: johnkedmiston@gmail.com
 
